@@ -68,11 +68,6 @@ EngSajjad:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad
 
 ### 📊 `top -b -n 1 | grep github_stats`
 
-<div align="center">
-  <a href="https://github.com/EngSajjad">
-    <img src="https://github-readme-stats.vercel.app/api?username=EngSajjad&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="stats graph" />
-  </a>
-</div>
 
 <br/>
 
@@ -84,11 +79,6 @@ EngSajjad:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/EngSajjad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngSajjad&langs_count=6&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" height="180" alt="languages graph"  />
-  </a>
-</div>
 
 ---
 
