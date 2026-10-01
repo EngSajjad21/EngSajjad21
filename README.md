@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/EngSajjad">
-    <img src="https://komarev.com/ghpvc/?username=EngSajjad&label=SYSTEM+ACCESSES&color=00ff00&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/EngSajjad21">
+    <img src="https://komarev.com/ghpvc/?username=EngSajjad21&label=SYSTEM+ACCESSES&color=00ff00&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@ EngSajjad:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad
 <br/>
 
 <div align="center">
-  <a href="https://github.com/EngSajjad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSajjad&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" alt="streak graph" />
+  <a href="https://github.com/EngSajjad21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSajjad21&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=ffffff&dates=ffffff" alt="streak graph" />
   </a>
 </div>
 
