@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=root@EngSajjad:~%23+whoami;Computer+Technology+Engineering+Student;Network+%26+Cybersecurity+Enthusiast;Passionate+Python+Programmer;root@EngSajjad:~%23+./hack_the_planet.sh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=sajjad@security-lab:~%24+whoami;Computer+Technology+Engineering+Student;Network+%26+Cybersecurity+Enthusiast;Passionate+Python+Programmer;sajjad@security-lab:~%24+./build_secure_tools.sh" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ### 💻 `cat /etc/passwd | grep EngSajjad`
 
 ```text
-EngSajjad:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad:/bin/bash
+EngSajjad21:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad21:/bin/bash
 ```
 
 * 🔭 **Current Focus:** Advanced Malware Analysis, Network Diagnostics, Penetration Testing.
@@ -83,5 +83,5 @@ EngSajjad:x:1000:1000:Computer Technology Engineering Student,,,:/home/EngSajjad
 ---
 
 <div align="center">
-  <sub>root@EngSajjad:~# exit</sub>
+  <sub>sajjad@security-lab:~$ exit</sub>
 </div>
