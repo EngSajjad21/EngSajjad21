@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:0e7490,100:22d3ee&height=230&section=header&text=SAJJAD%20ALKADUM&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=CYBERSECURITY%20%7C%20NETWORKS%20%7C%20PYTHON&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:0e7490,100:22d3ee&height=230&section=header&text=sajjad%20A.AlKadhim&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=CYBERSECURITY%20%7C%20NETWORKS%20%7C%20PYTHON&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/EngSajjad21">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Initializing+security+lab...;%3E+Analyzing+packets+and+patterns;%3E+Building+tools+that+defend+systems;%3E+Access+granted%3A+welcome+to+my+profile" alt="Typing animation" />
