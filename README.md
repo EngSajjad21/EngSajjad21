@@ -129,12 +129,17 @@ An internal deceptive honeypot with multiple services and real-time security ale
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EngSajjad21&show_icons=true&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&icon_color=67e8f9&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSajjad21&layout=compact&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1" height="170" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/EngSajjad21?style=for-the-badge&label=FOLLOWERS&color=0891b2" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/EngSajjad21?style=for-the-badge&label=TOTAL%20STARS&color=0891b2" alt="Total repository stars" />
+<img src="https://img.shields.io/github/commit-activity/y/EngSajjad21/EngSajjad21?style=for-the-badge&label=COMMITS%20THIS%20YEAR&color=0891b2" alt="Yearly commit activity" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSajjad21&hide_border=true&theme=transparent&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSajjad21&bg_color=050816&color=67e8f9&line=0891b2&point=ffffff&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
+<sub>For the full contribution graph and language breakdown, visit my <a href="https://github.com/EngSajjad21">GitHub profile</a>.</sub>
 
 </div>
 
