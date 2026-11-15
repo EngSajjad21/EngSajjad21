@@ -1,69 +1,153 @@
 <div align="center">
 
-# Hi, I'm Sajjad A.Alkadum 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:0e7490,100:22d3ee&height=230&section=header&text=SAJJAD%20ALKADUM&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=CYBERSECURITY%20%7C%20NETWORKS%20%7C%20PYTHON&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-### Computer Technology Engineering Student · Network & Cybersecurity Enthusiast
+<a href="https://github.com/EngSajjad21">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Initializing+security+lab...;%3E+Analyzing+packets+and+patterns;%3E+Building+tools+that+defend+systems;%3E+Access+granted%3A+welcome+to+my+profile" alt="Typing animation" />
+</a>
 
-I build practical security tools and network-focused projects with Python, with a focus on learning by experimenting, testing, and solving real-world problems.
+<br />
 
-<p>
-  <a href="https://github.com/EngSajjad21"><img src="https://img.shields.io/badge/GitHub-EngSajjad21-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <img src="https://komarev.com/ghpvc/?username=EngSajjad21&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-EngSajjad21-0b1220?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/EngSajjad21)
+[![Profile Views](https://komarev.com/ghpvc/?username=EngSajjad21&style=for-the-badge&color=0891b2&label=VISITORS)](https://github.com/EngSajjad21)
 
 </div>
 
----
+## `./whoami`
 
-## About me
+> **Computer Technology Engineering Student** building practical tools at the intersection of **networking, programming, and cybersecurity**.
+>
+> I like taking complex security ideas and turning them into experiments, utilities, and systems that can be tested in the real world.
 
-- 🔐 Exploring network security, threat hunting, penetration testing, and malware analysis
-- 🐍 Building security utilities and automation tools with Python
-- 🌱 Currently learning reverse engineering, exploit development, and defensive security
-- 🧪 Interested in packet analysis, intrusion detection, secure networking, and honeypots
-- ☕ I enjoy turning security concepts into working prototypes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Tech stack
+### ◈ Current mission
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
-</p>
+- Hunting threats and suspicious behavior
+- Exploring malware analysis and reverse engineering
+- Designing network diagnostics and monitoring tools
+- Learning offensive security with a defensive mindset
 
-## Featured projects
+</td>
+<td width="50%" valign="top">
 
-| Project | What it does |
-| --- | --- |
-| [**Network Troubleshooting & Fault Detection System**](https://github.com/EngSajjad21/ntfds-v2) | Monitors network devices, detects faults, and provides diagnostics and alerts. |
-| [**Secure VPN Tunnel**](https://github.com/EngSajjad21/Secure-VPN-Tunnel) | Prototype encrypted client-server communication with secure key exchange and integrity checks. |
-| [**Port Scanner**](https://github.com/EngSajjad21/Port-Scanner) | Multi-threaded TCP scanner with service detection and CVE-oriented checks. |
-| [**Phishing Detection Proxy**](https://github.com/EngSajjad21/Phishing-Detection-Proxy) | Inspects web requests, blocks suspicious links, and logs security events. |
-| [**Honeypot**](https://github.com/EngSajjad21/Honeypot) | Internal deceptive honeypot for OpenWrt routers with multiple services and alerts. |
-| [**HIDS**](https://github.com/EngSajjad21/HIDS) | Monitors critical files and processes for suspicious changes. |
+### ◈ Operating principles
 
-## GitHub activity
+```text
+01  Learn by building
+02  Test before trusting
+03  Secure by design
+04  Document the journey
+```
+
+</td>
+</tr>
+</table>
+
+## `// loadout`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EngSajjad21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2563eb&icon_color=2563eb" alt="Sajjad's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSajjad21&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Most used languages" />
+
+| Code | Security | Systems |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,cpp,js,bash" height="42" alt="Programming languages" /> | <img src="https://skillicons.dev/icons?i=linux,kali,docker" height="42" alt="Security and platforms" /> | <img src="https://skillicons.dev/icons?i=git,github,windows" height="42" alt="Development tools" /> |
+| **Python · C++ · JavaScript · Bash** | **Kali · Linux · Docker** | **Git · GitHub · Windows** |
+
+<br />
+
+`Wireshark` · `Nmap` · `Scapy` · `Cisco` · `Metasploit` · `Networking`
+
 </div>
 
+## `// selected operations`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Network Fault Detection
+
+**[NTFDS v2](https://github.com/EngSajjad21/ntfds-v2)**
+
+A network troubleshooting system that monitors devices, detects faults, and delivers diagnostics, reports, and alerts.
+
+`Python` `Networking` `Monitoring`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Secure Tunnel
+
+**[Secure VPN Tunnel](https://github.com/EngSajjad21/Secure-VPN-Tunnel)**
+
+An encrypted client-server prototype with secure key exchange, AES-256 encryption, and HMAC integrity verification.
+
+`Python` `Cryptography` `Networking`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Recon Toolkit
+
+**[Port Scanner](https://github.com/EngSajjad21/Port-Scanner)**
+
+A fast multi-threaded scanner with service detection, banner grabbing, and CVE-oriented checks.
+
+`Python` `TCP` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ Deception Layer
+
+**[OpenWrt Honeypot](https://github.com/EngSajjad21/Honeypot)**
+
+An internal deceptive honeypot with multiple services and real-time security alerts.
+
+`Python` `OpenWrt` `Honeypot`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects in the lab</b></summary>
+<br />
+
+- [Phishing Detection Proxy](https://github.com/EngSajjad21/Phishing-Detection-Proxy) — inspects requests, blocks malicious links, and logs events.
+- [HIDS](https://github.com/EngSajjad21/HIDS) — monitors critical files and processes for suspicious modifications.
+- [Custom Packet Sniffer](https://github.com/EngSajjad21/Custom-Packet-Sniffer) — captures, filters, and analyzes network traffic with Scapy.
+- [TechDeploy Pro](https://github.com/EngSajjad21/TechDeploy-Pro) — Windows post-installation automation toolkit.
+
+</details>
+
+## `// telemetry`
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSajjad21&hide_border=true&theme=transparent&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=EngSajjad21&show_icons=true&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1&icon_color=67e8f9&rank_icon=github" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSajjad21&layout=compact&hide_border=true&bg_color=050816&title_color=22d3ee&text_color=cbd5e1" height="170" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSajjad21&bg_color=050816&color=67e8f9&line=0891b2&point=ffffff&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
+
 </div>
 
----
+## `// status`
 
 <div align="center">
-  <sub>Learning every day · Building with purpose · Securing what matters</sub>
+
+```diff
++ SYSTEM STATUS: ONLINE
++ MODE: BUILDING & LEARNING
++ NEXT TARGET: STRONGER SYSTEMS
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:050816&height=110&section=footer" width="100%" />
+
 </div>
